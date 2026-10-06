@@ -48,7 +48,7 @@ Ghost Bowl
 
 </div>
   
-## printable like:
+## printable like: https://www.printables.com/model/1867025-ghost-bowl
 ## About the Project
 ### **Ghost Bowl** - It is a 3D printable candy Bowl in a Shape of a Ghost. which looks like a Ghost is Carrying a Bowl full of candy.
 #### Usage place: 
@@ -75,7 +75,7 @@ Ghost Bowl
 
 ## Render
 <div align="center">
- <img width=100% alt="image" src="https://github.com/user-attachments/assets/6994f150-0848-43ae-af5a-94c569d75fb9" />
+ <img width=100% alt="image" src="https://github.com/user-attachments/assets/0650f674-c109-49d8-b740-c4c35fad77f9" />
 
 
  </div>
@@ -103,6 +103,8 @@ Source: `BOM.csv`
 
 ### Recommended Print Specifications
 
+> [!TIP]
+> Scale the Model According to your requirement.
 
 
 | Specification | Default Value / Range |
@@ -125,8 +127,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## Credits
 <div align="center">
 
-[![Fusion 360](https://img.shields.io/badge/CAD%20in-Fusion%20360-orange?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
-[![Hack Club Live YSWS](https://img.shields.io/badge/Hack%20Club-ZoneOut-FFC800?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://Live.hackclub.com)
+[![Hack Club Live YSWS](https://img.shields.io/badge/Hack%20Club-ZoneOut-FFC800?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://zoneout.hackclub.com)
 [![Blender](https://img.shields.io/badge/Rendered%20in-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org) 
 [![Bambu Studio](https://img.shields.io/badge/Rendered%20in-Bambu%20Studio-green?style=for-the-badge&logo=Bambulab&logoColor=white)](https://bambulab.com/en/download/studio) 
 
@@ -134,7 +135,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 This project was created during a [Hack Club](https://hackclub.com) event [Live](https://zoneout.hackclub.com).
 
-- **[Fusion 360](https://www.autodesk.com/products/fusion-360)** - Cad Designing
 - **[Blender](https://www.blender.org)** - Render + cad
 - **[Bambu Studio](https://bambulab.com/en/download/studio)** - Slicing the Model
 
