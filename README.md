@@ -117,7 +117,7 @@ Source: `BOM.csv`
 | **Sparse Infill Density** | 10% |
 | **Max Toolhead Speed** | 500 mm/s |
 | **Max Acceleration** | 8000 mm/s² |
-| **Support** | tree 25° |
+| **Support** | normal 25° |
 
  source: `Production`
 
