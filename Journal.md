@@ -54,7 +54,7 @@ Startes_at: "10/1/2026"
 
 
 # 10/5/2026        Ghost Bowl Repo and printable 
-## lapse: soon 
+## lapse: https://lapse.hackclub.com/timelapse/M9oftWYrEKff
 ### hola,
 #### Hello so first I'd 3D printed the model. and Click some Beautiful photos 
 #### Here you see vvv
