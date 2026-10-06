@@ -4,6 +4,8 @@ description: "It is a 3D printable candy Bowl in a Shape of a Ghost. which looks
 Startes_at: "10/1/2026"
 ---
 
+<img width="952" height="528" alt="image" src="https://github.com/user-attachments/assets/366ba4fd-92d8-46cd-b3f9-f7ea30d16b3d" />
+
 
 ## Hackatime link: https://hackatime.hackclub.com/@dushyantYadav0303/project/ghost+bowl
 
